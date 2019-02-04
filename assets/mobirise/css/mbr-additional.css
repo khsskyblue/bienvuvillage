@@ -2012,13 +2012,24 @@ body {
   z-index: auto;
 }
 .cid-rgVlNMSZ17 H2 {
-  text-align: left;
+  text-align: center;
 }
 .cid-rgVlNMSZ17 P {
-  text-align: left;
+  text-align: center;
 }
 .cid-rgVlNMSZ17 DIV {
-  text-align: left;
+  text-align: center;
+}
+.cid-rh4T44OIF6 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #172d11;
+}
+.cid-rh4T44OIF6 .mbr-section-subtitle {
+  color: #b49459;
+}
+.cid-rh4T44OIF6 B {
+  color: #b49459;
 }
 .cid-rgVTxvNBMS {
   padding-top: 90px;
