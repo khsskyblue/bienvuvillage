@@ -53,7 +53,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<script type=\"text/javascript\" src=\"//wcs.naver.net/wcslog.js\"></script>\r\n<script type=\"text/javascript\">\r\nif(!wcs_add) var wcs_add = {};\r\nwcs_add[\"wa\"] = \"dd89262e5b1770\";\r\nwcs_do();\r\n</script>",
     "cookiesAlert": "",
     "gdpr": "",
     "sitemapSwitcher": "on"
@@ -63,7 +63,7 @@
       "settings": {
         "main": true,
         "title": "비엔뷰빌리지",
-        "meta_descr": "<script type=\"text/javascript\" src=\"//wcs.naver.net/wcslog.js\"></script>\n<script type=\"text/javascript\">\nif(!wcs_add) var wcs_add = {};\nwcs_add[\"wa\"] = \"dd89262e5b1770\";\nwcs_do();\n</script>",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
