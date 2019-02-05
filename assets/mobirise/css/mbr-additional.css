@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i);
 
 
@@ -20,14 +21,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3.8rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.08rem;
 }
 .display-2 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2.8rem;
 }
 .display-2 > .mbr-iconfont {
